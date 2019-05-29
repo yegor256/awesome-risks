@@ -8,13 +8,13 @@ the concept, read this blog post:
 
 ## Categories
 
-💰 Money
-🏢 Organizations
-💾 Software
-📦 Data
-🌿 Products
-📚 Documents
-🤵 People
+  * 💰 Money
+  * 🏢 Organizations
+  * 💾 Software
+  * 📦 Data
+  * 🌿 Products
+  * 📚 Documents
+  * 🤵 People
 
 ## Causes
 
