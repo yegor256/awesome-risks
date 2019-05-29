@@ -1,3 +1,5 @@
+<img src="https://www.0rsk.com/logo.svg" width="92px" height="92px"/>
+
 This is a currated list of risks any software project may face.
 This list is going to help you identify and manage risks
 in [0rsk](https://www.0rsk.com) online tool. To understand
