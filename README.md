@@ -10,16 +10,20 @@ the concept, read this blog post:
 
 💰 Money
 🏢 Organizations
-💾 Data
+💾 Software
+📦 Data
 🌿 Products
+📚 Documents
 🤵 People
 
 ## Causes
 
   * PayPal account 💰
   * ACME Inc. 🏢
-  * MySQL Database 💾
+  * Spring Framework 💾
+  * MySQL Database 📦
   * Our mobile app 🌿
+  * Patent 📚
   * Jeffrey Lebowski 🤵
 
 ## Risks
@@ -36,7 +40,12 @@ the concept, read this blog post:
   * They may require additional verification
   * They may get a new management
 
-💾 MySQL Database:
+💾 Spring Framework:
+
+  * It may have a security issue
+  * It may stop being supported
+
+📦 MySQL Database:
 
   * It may be hacked
   * It may be corrupted/destroyed
@@ -46,6 +55,11 @@ the concept, read this blog post:
 
   * It may crash in production
   * It may look bad for end-users
+
+📚 Patent:
+
+  * It may be disputed
+  * It may expire
 
 🤵 Jeffrey:
 
