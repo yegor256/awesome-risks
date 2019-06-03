@@ -72,7 +72,7 @@ To understand the concept read this:
 ## Effects
 
   * We will loose the money
-  * Customer will be disapponted
+  * Customer will be disappointed
   * We will lose the data
   * Our reputation will be ruined
   * We will have to find another programmer
