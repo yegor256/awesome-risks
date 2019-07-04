@@ -46,10 +46,11 @@ To understand the concept read this:
 
   * It may have a security issue
   * It may stop being supported
+  * It may not have required features
 
 📦 MySQL Database:
 
-  * It may be hacked
+  * It may be hacked and stolen
   * It may be corrupted/destroyed
   * It may become too slow
 
@@ -57,6 +58,9 @@ To understand the concept read this:
 
   * It may crash in production
   * It may look bad for end-users
+  * It may become very popular
+  * It may loose its audience
+  * It may be taken off the market by a competitor
 
 📚 Patent:
 
@@ -68,6 +72,8 @@ To understand the concept read this:
   * He may quit the project
   * He may get sick
   * He may steal our database
+  * He may burn-out
+  * He may get lazy and stop performing
 
 ## Effects
 
@@ -77,4 +83,6 @@ To understand the concept read this:
   * Our reputation will be ruined
   * We will have to find another programmer
   * We won't be able to release on-time
+  * We will have to re-write from scratch
+  * The server will be down for a long time
 
